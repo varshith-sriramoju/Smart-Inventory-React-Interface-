@@ -36,8 +36,6 @@ npm run preview
 
 This is a static Vite + React site. The production build outputs to `dist/`. You can deploy it on any static host.
 
-Choose one of the options below:
-
 ### Netlify
 
 Fastest path with zero config (we added `netlify.toml`).
