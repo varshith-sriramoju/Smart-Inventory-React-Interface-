@@ -1,5 +1,7 @@
 # SmartInventory - Frontend Only
 
+Live Demo: [https://smartinventoryreact.netlify.app/](https://smartinventoryreact.netlify.app/)
+
 A standalone Vite + React + TypeScript + Tailwind project extracted from the monorepo. This runs independently of the Django backend, using mocked data in the UI.
 
 ## Features
